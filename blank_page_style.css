@@ -1,0 +1,32 @@
+body{
+  
+  
+}
+
+
+
+.main_container{
+  overflow: hidden;
+  border: 1px solid black;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  margin-left: 90px;
+  height: 250px;
+  width: 1050px;
+  background: #95afc0;
+}
+
+
+/****************************
+Start of header area design
+****************************/
+
+
+
+
+.footer{
+overflow: hidden;
+margin-top: 80px;
+background: #2C3A47;
+height: 50px;
+}

@@ -1,0 +1,22 @@
+.main_container{
+  overflow: hidden;
+  border: 1px solid black;
+  margin-top: 25px;
+  margin-bottom: 100px;
+  margin-left: 90px;
+  height: 506px;
+  width: 1050px;
+  background: #95afc0;
+}
+
+.header{
+    overflow: hidden;
+    background: #3B3B98;
+    height: 100px;
+}
+
+.footer{
+margin-top: 251px;
+background: #2C3A47;
+height: 50px;
+}

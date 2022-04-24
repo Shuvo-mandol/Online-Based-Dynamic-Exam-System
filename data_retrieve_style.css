@@ -1,0 +1,48 @@
+body{
+  
+  
+}
+
+
+
+.main_container{
+  overflow: hidden;
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-left: 90px;
+  height: 1490px;
+  width: 1050px;
+  background: #95afc0;
+}
+
+
+/****************************
+Start of header area design
+****************************/
+
+.header{
+    overflow: hidden;
+    background: #3B3B98;
+    height: 100px;
+}
+.display_data_div{
+overflow: auto;
+background: #70a1ff;
+height: 1700px;
+margin-left: 100px;
+}
+
+
+.main_container.formClass{
+  font-color: red;
+
+}
+
+
+
+.footer{
+background: #2C3A47;
+height: 50px;
+margin-top: 93px;
+}
